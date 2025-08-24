@@ -15,3 +15,5 @@ A beautifully designed and responsive Expense Tracker interface built with React
 - React
 - TailwindCSS
 - Lucide Icons
+
+<img width="2761" height="1514" alt="image" src="https://github.com/user-attachments/assets/5ddd2da3-b789-4539-8d00-40ba16a6f80a" />
